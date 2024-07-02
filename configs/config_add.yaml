@@ -1,0 +1,10 @@
+dtype: float
+cast_to_int: true
+input1:
+  - 1.0
+  - 2.0
+  - 3.0
+input2:
+  - 10
+  - 20
+  - 30
