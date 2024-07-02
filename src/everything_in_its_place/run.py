@@ -1,5 +1,4 @@
 import hydra
-from omegaconf import OmegaConf
 
 from everything_in_its_place.higher_level_functions import add_loop
 from everything_in_its_place.configurations import AddConfig
